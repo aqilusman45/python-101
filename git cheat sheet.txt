@@ -1,0 +1,2 @@
+adding remote command 
+git remote add orgin "http ssh link"
