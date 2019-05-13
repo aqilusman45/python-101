@@ -1,8 +1,0 @@
-print(); 
-sep=();
-variables;
-operations
-restrictions;
-type()
-function signature
-
