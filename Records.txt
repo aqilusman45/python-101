@@ -1,0 +1,4 @@
+name age cnic
+usman 12 12313
+usman 12 12313
+usman 12 12313
